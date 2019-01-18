@@ -1,5 +1,8 @@
 .colorful-text {
-  color: red;
-}
+  color: white;
 
-  padding:
+  padding: 10px;
+  height: 100px;
+  /*margin: 10px;*/
+  background-color: #222222;
+}
